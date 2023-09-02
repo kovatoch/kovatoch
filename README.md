@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mikael Drewes</h1>
-<h3 align="center">A passionate DevOps Engenier from Denmark</h3>
+<h3 align="center">A passionate DevOps Engineer from Denmark</h3>
 
 - 🔭 I’m currently working on **IaC project**
 
